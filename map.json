@@ -30,9 +30,9 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"openWebsite",
+                 "name":"jitsiRoom",
                  "type":"string",
-                 "value":"https:\/\/www.audialist.com"
+                 "value":"fireplace"
                 }],
          "type":"tilelayer",
          "visible":true,
