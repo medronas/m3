@@ -33,6 +33,16 @@
                  "name":"jitsiRoom",
                  "type":"string",
                  "value":"fireplace"
+                }, 
+                {
+                 "name":"jitsiTrigger",
+                 "type":"string",
+                 "value":"onaction"
+                }, 
+                {
+                 "name":"jitsiTriggerMessage",
+                 "type":"string",
+                 "value":"Press space to enter jitsi fireplace room"
                 }],
          "type":"tilelayer",
          "visible":true,
